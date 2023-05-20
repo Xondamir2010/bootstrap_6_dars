@@ -1,0 +1,14 @@
+.card-header{
+    background-color: #868E96;
+}
+.btn-success{
+    margin-left: 230px;
+}
+.btn-info{
+    position: absolute;
+    top: 407px;
+    left: 150px;
+}
+.card{
+    background-color: #F8F9FA;
+}
